@@ -1,0 +1,29 @@
+2021-12-09 14:54:29,830 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-12-09 14:55:08,467 asyncio      DEBUG    Using selector: EpollSelector
+2021-12-09 14:55:08,582 asyncio      DEBUG    Using selector: EpollSelector
+2021-12-09 14:55:10,299 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-12-09 14:57:23,471 django.utils.autoreload INFO     /home/hp/Desktop/api_new_project/staging_!/MentorProject/MentorProject/assessment/assessment/settings.py changed, reloading.
+2021-12-09 14:57:23,472 asyncio      DEBUG    Using selector: EpollSelector
+2021-12-09 14:57:24,105 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-12-09 15:01:53,178 asyncio      DEBUG    Using selector: EpollSelector
+2021-12-09 15:01:56,342 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-12-09 15:02:25,564 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-12-09 15:04:16,690 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-12-09 15:05:24,009 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-12-09 15:07:06,257 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-12-09 15:10:02,081 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-12-09 15:10:41,100 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-12-09 17:31:39,796 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-12-09 17:32:14,248 django.request WARNING  Not Found: /
+2021-12-09 17:32:14,425 django.request WARNING  Not Found: /favicon.ico
+2021-12-09 17:43:36,095 django.utils.autoreload INFO     /home/salman/Desktop/Django/MentorProject/MentorProject/MentorProject/assessment/app/serializer.py changed, reloading.
+2021-12-09 17:43:36,104 asyncio      DEBUG    Using selector: EpollSelector
+2021-12-09 17:43:36,808 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-12-09 17:45:52,360 django.utils.autoreload INFO     /home/salman/Desktop/Django/MentorProject/MentorProject/MentorProject/assessment/app/serializer.py changed, reloading.
+2021-12-09 17:45:52,361 asyncio      DEBUG    Using selector: EpollSelector
+2021-12-09 17:45:53,195 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-12-09 17:46:54,508 django.utils.autoreload INFO     /home/salman/Desktop/Django/MentorProject/MentorProject/MentorProject/assessment/app/models.py changed, reloading.
+2021-12-09 17:46:54,545 asyncio      DEBUG    Using selector: EpollSelector
+2021-12-09 17:46:55,341 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-12-09 17:47:32,372 asyncio      DEBUG    Using selector: EpollSelector
+2021-12-09 17:47:32,535 asyncio      DEBUG    Using selector: EpollSelector
